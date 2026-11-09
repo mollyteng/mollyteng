@@ -26,4 +26,5 @@ PhD in quantitative methods · former Data Scientist at Loblaw Digital · now co
 
 **Production experience:** Python · SQL (BigQuery) · R · PySpark MLlib · Airflow · GCP · Looker · gradient boosting · clustering · propensity modelling · causal inference · experimental design · structural equation modelling
 
-**Developing in my MS program:** systems programming in C · cloud computing · deep learning (PyTorch) · generative models · GPU computing
+**Current learning goals in my MS program:** systems programming in C · cloud computing · deep learning (PyTorch) · generative models · GPU computing. I'll publish reproducible ML and causal inference projects here as I complete them.
+
